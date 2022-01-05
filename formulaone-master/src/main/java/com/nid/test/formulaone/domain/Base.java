@@ -2,6 +2,7 @@ package com.nid.test.formulaone.domain;
 
 import javax.persistence.*;
 
+//Class to be inherited by my Domains
 @Entity
 public abstract class Base {
 
